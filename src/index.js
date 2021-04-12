@@ -36,6 +36,7 @@ let SAMPLE_CSS = `.image-pattern-style {
   color: rgba(0, 0, 0, .7)
 }
 }`;
+// comment in stackblitz
 let nodes = [
   {
     id: "start",
