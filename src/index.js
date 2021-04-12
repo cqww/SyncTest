@@ -37,6 +37,7 @@ let SAMPLE_CSS = `.image-pattern-style {
 }
 }`;
 // comment in stackblitz
+// comment in code
 let nodes = [
   {
     id: "start",
